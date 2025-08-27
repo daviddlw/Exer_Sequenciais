@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1756276950 source:d:\tads\atp\exer_estruturasequencial\q.25\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
